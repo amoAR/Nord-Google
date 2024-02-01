@@ -4,8 +4,7 @@ Nord-Theme for Google
 
 <p align="center">
 Modernizing Google pages with the Nord color palette...
-
-<img src="Docs/home.png" alt="home"/>
+<img style="margin-top: 10px" src="Docs/home.png" alt="home"/>
 </p>
 
 > Preview image shows with [GX Vibes Shader](https://store.gx.me/mods/cyyg3i/vibes-shader/), [IRANYekan X](https://fontiran.com/fonts/iranyekan) font on 1920x1080 resolution.
