@@ -24,11 +24,12 @@ if(exceptions === 0 || !document.getElementsByTagName("body")[0].classList.inclu
     const queryOptionQ = queryOption.findIndex(x => x.match(/q=(.*)/) !== null);
     const queryOptionType = queryOption.findIndex(x => x.match(/tbm=(.*)/) !== null);
     const queryOptionTabs = queryOption.findIndex(x => x.match(/tbs=(.*)/) !== null);
+    const queryOptionUdm  = queryOption.findIndex(x => x.match(/udm=(.*)/) !== null);
     const queryOptionScrape = queryOption.findIndex(x => x.match(/si=(.*)/) !== null);
     const queryOptionStart = queryOption.findIndex(x => x.match(/start=([0-9]{2,5}$)/) !== null);
     
     // options concatenation
-    const specialQuery = [queryOptionTabs, queryOptionStart, queryOptionScrape];
+    const specialQuery = [queryOptionTabs, queryOptionUdm, queryOptionStart, queryOptionScrape];
     specialQuery.forEach((x) => {
         if(queryOption[x] !== null && queryOption[x] !== ""){
             if(queryOption[x] === undefined){
@@ -46,6 +47,7 @@ if(exceptions === 0 || !document.getElementsByTagName("body")[0].classList.inclu
         && queryOption[queryOptionQ] !== null
         && queryOption[queryOptionQ+1] !== undefined
         && !queryOption[queryOptionQ+1].includes("tbs=")
+        && !queryOption[queryOptionQ+1].includes("udm=")
         && !queryOption[queryOptionQ+1].includes("start=")
         && !queryOption[queryOptionQ+1].includes("si=")){
             // - All results
@@ -67,7 +69,7 @@ if(exceptions === 0 || !document.getElementsByTagName("body")[0].classList.inclu
             if(queryOptionStart !== -1){
                 resultQuery += queryOption[queryOptionStart];
             }
-            location.replace(("https://www.google.com/search?" + resultQuery + queryOption[queryOptionTabs] + queryOption[queryOptionStart]).trim());
+            location.replace(("https://www.google.com/search?" + resultQuery + queryOption[queryOptionTabs] + queryOption[queryOptionUdm] + queryOption[queryOptionStart]).trim());
     } 
     // show results (TrueQuery)
     else {
