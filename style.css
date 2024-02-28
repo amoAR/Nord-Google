@@ -428,8 +428,14 @@ html {
     margin-bottom: 3px;
 }
 
-.CcERhd.msQyLb, .lTWqdd, .iInyCf>.OEscc+.OEscc, .iInyCf, .jL8FVc, .nmRJZc .ZjAUM, .hu1eAd, .Svr5cf, .jayuxd, .ETNBac, .MyPH1e, .zjPGNb, .cI7msd:not(:last-child), .QVPdce, .Td3vn.sMVRZe, .Ha52Bc, .mEKuwe, .XKrkB, .lMu92c, .G4B0o, .IU1ISc:after, .HSryR .KsRP6 {
+.CcERhd.msQyLb, .lTWqdd, .iInyCf>.OEscc+.OEscc, .iInyCf, .jL8FVc, .nmRJZc .ZjAUM, .hu1eAd, .Svr5cf, .jayuxd, .ETNBac, .MyPH1e, .zjPGNb, .cI7msd:not(:last-child), .QVPdce, .Td3vn.sMVRZe, .Ha52Bc, .mEKuwe, .XKrkB, .lMu92c, .G4B0o, .IU1ISc:after, .HSryR .KsRP6, .RpqMib:after, .a2qDab, .jCzOJd, .yNpapf .IIlLl {
     border-color: rgba(27, 30, 39, .3);
+}
+
+.p0tlZe {
+    border-color: rgba(255, 255, 255, .3);
+    outline-color: rgba(27, 30, 39, .3);
+    border-radius: 10px;
 }
 
 .zP7KFe, .sbhl, .M3LVze>div:hover, .DQc04b:hover, .tw-lliw:hover, .w3RMhb:hover, .Wr0c6d:hover, g-inner-card:not(.VFlF2c>g-inner-card), .sbct.yMAEcf:hover, .KT6Tgd .CxtIIb[aria-selected="true"], .zMQeMc, .app-imagery-mode.pane-open-mode .C5SiJf, .jQkXof, .pRZvsd .A7KlJf {
@@ -831,7 +837,7 @@ footer {
     height: max-content;
 }
 
-.AJLUJb>div>a, .jD7Eif>span>a>div, .gmYxHe>span, .CNf3nf.OvQkSb.LhCR5d, .tiS4rf.Q2MMlc>div, .SLI5wb.zVq10e.TkZZsf.Wt5Tfe, .wr8GYd, .YsiKr.r2fjmd.X3BRhe.YTUbae.CNf3nf.OvQkSb.wecD1d, .hqwb1b, .cEW58.khjlM, .cEW58.pQ1qie, .h312td, .fSXkBc, .REySof, .hhB0V>div, .zaokob, .t2vtad:active, .t2vtad:hover, .hdtb-tl-sel, g-menu, .ZOyvub, .fLciMb:hover, .NJfJb.TUOsUe.Sr5CLc.E1kGSe.wok5vf.cB4NFc.aID8W, .NJfJb.TUOsUe.Sr5CLc.bXhgEb.aID8W, .Xy35sb, .ZkkK1e.yUTMj.k1U36b, .PNyWAd.ZXJQ7c:hover, .PNyWAd.ZXJQ7c:focus, .PNyWAd.ZXJQ7c:active, .ECgenc, .qcTKEe, .Hm7Qac:hover, .XD1Bsc:hover, .XD1Bsc:active ,.XD1Bsc, .MSOQIb, .YnfCrb, .DvYAvb .h2rmxc, .VQ97Zb, .CVDt0 .QT8Hbf, .CVDt0 .ZjEvzc, .CVDt0 .Bofz6, .CVDt0 .KxwMuc, .CVDt0 .KEWPqb, .CVDt0 .BUzZed, .z80M1.RDPZE.WW4Sef, .g3VIld.fEPAZb.Ebrobb.eejsDc.AzsPy.E4P6x.Whe8ub.hFEqNb.J9Nfi.iWO5td, .QnfS4e, .zjoqD, .qdnLaf, .v4dQwb, .jZmLbb, .app-imagery-mode .xsYFzc, .CZShK, .FAl3Ic, .SUgb2e, .VvrH3b, .KdK6Xc div:not(.lkR3Y *):not(.hSGhwc), .I9mSue, .n4DWob, .stxVfe .GqNdIe-YySNWc, .Usd1Ac, .ChROwb, .wxtCmb:hover, .yra0jd, .iQONG.LCTIRd, .ZXMsO, .jrtH8d, .BgrMEd, .K6Fdub, .JrN27d, .ZuFBwf.isElevated, .h6Jahf, .cRLbXd, .vij30, .DTDhxc, .UEqktc, .tXNTee.LCTIRd.L6Bbsd.VbYL9, .PCUzIf, .cDZBKc, .DMPNfb, .pzaG1c, .U5xfxc, .uyVA9, .MXl0lf, .nZWEZc .ttwCMe, .bSHutd, .hcC8tf .mmqYJd, g-flat-button, .AldPpe, .lWy7Jc, .NJfJb, .w2IEs, .DAdBuc, div[role="menuitemcheckbox"], div[role="menuitem"], .wHPtib, .gM0QCf .tKODXd, .DbuWcd.ZjAUM, .Gk0HC, .nCP5yc:not(:disabled), .fSSWab.sYt5sc:not(.HDland) .lkvzbb:after, .A8nfpe, .Qh1JHb, .HeipYe, .Yscmfc, .gSzp7, .B2bZ2e .SKMfG, .WQxaOe, .kvqsDd, .kvqsDd:before, .kvqsDd:after, .ncFHed, .jvOlt, ul[role="menu"], #rllhd__fldhc, .QzEO9c, .Rn1jbe, .zgWKc, .oIifQb, .AwQJnb.UEqktc, .fbbYed *, iframe, .wob_ds, .S8ee5, .uais2d, .nHPTn, .JgfpDb.cZEg1e, .JgfpDb .cZEg1e, .BN3Bjd.a8pxAe, .x2GJWb .niO4u, .fKmH1e, .pRZvsd.k4o2Hc, .pRZvsd .k4o2Hc {
+.AJLUJb>div>a, .jD7Eif>span>a>div, .gmYxHe>span, .CNf3nf.OvQkSb.LhCR5d, .tiS4rf.Q2MMlc>div, .SLI5wb.zVq10e.TkZZsf.Wt5Tfe, .wr8GYd, .YsiKr.r2fjmd.X3BRhe.YTUbae.CNf3nf.OvQkSb.wecD1d, .hqwb1b, .cEW58.khjlM, .cEW58.pQ1qie, .h312td, .fSXkBc, .REySof, .hhB0V>div, .zaokob, .t2vtad:active, .t2vtad:hover, .hdtb-tl-sel, g-menu, .ZOyvub, .fLciMb:hover, .NJfJb.TUOsUe.Sr5CLc.E1kGSe.wok5vf.cB4NFc.aID8W, .NJfJb.TUOsUe.Sr5CLc.bXhgEb.aID8W, .Xy35sb, .ZkkK1e.yUTMj.k1U36b, .PNyWAd.ZXJQ7c:hover, .PNyWAd.ZXJQ7c:focus, .PNyWAd.ZXJQ7c:active, .ECgenc, .qcTKEe, .Hm7Qac:hover, .XD1Bsc:hover, .XD1Bsc:active ,.XD1Bsc, .MSOQIb, .YnfCrb, .DvYAvb .h2rmxc, .VQ97Zb, .CVDt0 .QT8Hbf, .CVDt0 .ZjEvzc, .CVDt0 .Bofz6, .CVDt0 .KxwMuc, .CVDt0 .KEWPqb, .CVDt0 .BUzZed, .z80M1.RDPZE.WW4Sef, .g3VIld.fEPAZb.Ebrobb.eejsDc.AzsPy.E4P6x.Whe8ub.hFEqNb.J9Nfi.iWO5td, .QnfS4e, .zjoqD, .qdnLaf, .v4dQwb, .jZmLbb, .app-imagery-mode .xsYFzc, .CZShK, .FAl3Ic, .SUgb2e, .VvrH3b, .KdK6Xc div:not(.lkR3Y *):not(.hSGhwc), .I9mSue, .n4DWob, .stxVfe .GqNdIe-YySNWc, .Usd1Ac, .ChROwb, .wxtCmb:hover, .yra0jd, .iQONG.LCTIRd, .ZXMsO, .jrtH8d, .BgrMEd, .K6Fdub, .JrN27d, .ZuFBwf.isElevated, .h6Jahf, .cRLbXd, .vij30, .DTDhxc, .UEqktc, .tXNTee.LCTIRd.L6Bbsd.VbYL9, .PCUzIf, .cDZBKc, .DMPNfb, .pzaG1c, .U5xfxc, .uyVA9, .MXl0lf, .nZWEZc .ttwCMe, .bSHutd, .hcC8tf .mmqYJd, g-flat-button, .AldPpe, .lWy7Jc, .NJfJb, .w2IEs, .DAdBuc, div[role="menuitemcheckbox"], div[role="menuitem"], .wHPtib, .gM0QCf .tKODXd, .DbuWcd.ZjAUM, .Gk0HC, .nCP5yc:not(:disabled), .fSSWab.sYt5sc:not(.HDland) .lkvzbb:after, .A8nfpe, .Qh1JHb, .HeipYe, .Yscmfc, .gSzp7, .B2bZ2e .SKMfG, .WQxaOe, .kvqsDd, .kvqsDd:before, .kvqsDd:after, .ncFHed, .jvOlt, ul[role="menu"], #rllhd__fldhc, .QzEO9c, .Rn1jbe, .zgWKc, .oIifQb, .AwQJnb.UEqktc, .fbbYed *, iframe, .wob_ds, .S8ee5, .uais2d, .nHPTn, .JgfpDb.cZEg1e, .JgfpDb .cZEg1e, .BN3Bjd.a8pxAe, .x2GJWb .niO4u, .fKmH1e, .pRZvsd.k4o2Hc, .pRZvsd .k4o2Hc, g-raised-button, .k4o2Hc {
 	background-color: #383d51;
 }
 
@@ -1829,7 +1835,7 @@ input[type="file"]::file-selector-button {
     color: #fff;
 }
 
-.scene-footer {
+.scene-footer, .A7KlJf {
     border-top-right-radius: 5px;
     background-color: rgba(27, 30, 39, .3);
 }
@@ -2575,7 +2581,12 @@ body[style="margin: 0px; background: #0e0e0e; height: 100%"] img {
 }
 
 #rcnt {
-    max-width: 1400px;
+    max-width: 100%;
+    margin-right: 5.5rem;
+}
+
+.wH6SXe {
+    background-color: transparent;
 }
 
 .yF4Rkc {
@@ -2821,7 +2832,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABuCAIAAAALesI7AAAAG
     height: 46px;
 }
 
-#oFNiHe .Ww4FFb.vt6azd, .Cy9gW.Sqrs4e.lVm3ye, .O4T6Pe.TPKH4e, .rsGxI.Ww4FFb {
+#oFNiHe .Ww4FFb.vt6azd, .Cy9gW.Sqrs4e.lVm3ye, .O4T6Pe.TPKH4e, .rsGxI.Ww4FFb, .K5xnQc {
     display: none;
 }
 
@@ -2835,4 +2846,8 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABuCAIAAAALesI7AAAAG
 
 #abss_1.WRhYSc {
     margin-left: 65px;
+}
+
+.zNFAfd.RLCdOb {
+    display: none;
 }
