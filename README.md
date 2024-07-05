@@ -1,7 +1,11 @@
-<H2 align="center">
-Nord-Theme for Google
+<H2>
+⛔️ DEPRECATED <former description>
 </H2>
-
+<pre>
+  This is no longer supported, please consider using <a href="https://github.com/amoAR/Nord-Google-V2">Nord Google V2</a> instead.
+</pre>
+</br>
+  
 <p align="center">
 Modernizing Google pages with the Nord color palette...
 <dl><dl>
